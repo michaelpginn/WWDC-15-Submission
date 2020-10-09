@@ -176,7 +176,7 @@ class ProjectsViewController: UIViewController, UIViewControllerTransitioningDel
         self.performSegue(withIdentifier: "finish", sender: self)
     }
     
-    func prepareForSegue(segue: UIStoryboardSegue, sender: AnyObject?) {
+    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
         let toViewController = segue.destination 
         toViewController.transitioningDelegate = self
         self.lastSegue = segue
@@ -192,7 +192,7 @@ class ProjectsViewController: UIViewController, UIViewControllerTransitioningDel
         }
     }
     
-    func animationControllerForPresentedController(presented: UIViewController, presentingController presenting: UIViewController, sourceController source: UIViewController) -> UIViewControllerAnimatedTransitioning? {
+    func animationController(forPresented presented: UIViewController, presenting: UIViewController, source: UIViewController) -> UIViewControllerAnimatedTransitioning? {
         if self.lastSegue?.identifier == "showCard3" {
             return ZoomTransition(cardView: self.card3)
         }else if self.lastSegue?.identifier == "showCard9"{
@@ -205,7 +205,7 @@ class ProjectsViewController: UIViewController, UIViewControllerTransitioningDel
             return nil
         }
     }
-    func animationControllerForDismissedController(dismissed: UIViewController) -> UIViewControllerAnimatedTransitioning? {
+    func animationController(forDismissed dismissed: UIViewController) -> UIViewControllerAnimatedTransitioning? {
         return nil
     }
 

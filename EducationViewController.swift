@@ -126,7 +126,7 @@ class EducationViewController: UIViewController, UIViewControllerTransitioningDe
     }
 
     
-    func prepareForSegue(segue: UIStoryboardSegue, sender: AnyObject?) {
+    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
         let toViewController = segue.destination 
         toViewController.transitioningDelegate = self
         self.lastSegue = segue
@@ -136,7 +136,7 @@ class EducationViewController: UIViewController, UIViewControllerTransitioningDe
         }
     }
     
-    func animationControllerForPresentedController(presented: UIViewController, presentingController presenting: UIViewController, sourceController source: UIViewController) -> UIViewControllerAnimatedTransitioning? {
+    func animationController(forPresented presented: UIViewController, presenting: UIViewController, source: UIViewController) -> UIViewControllerAnimatedTransitioning? {
         if self.lastSegue?.identifier == "moveOn"{
             return slideLeftTransitionController
         }else if self.lastSegue?.identifier == "showCard1" {
@@ -147,7 +147,7 @@ class EducationViewController: UIViewController, UIViewControllerTransitioningDe
             return slideLeftTransitionController
         }
     }
-    func animationControllerForDismissedController(dismissed: UIViewController) -> UIViewControllerAnimatedTransitioning? {
+    func animationController(forDismissed dismissed: UIViewController) -> UIViewControllerAnimatedTransitioning? {
         if self.lastSegue?.identifier == "moveOn"{
             return slideRightTransitionController
         }else if self.lastSegue?.identifier == "showCard1" || self.lastSegue?.identifier == "showCard4"{

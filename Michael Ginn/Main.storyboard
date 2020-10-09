@@ -364,7 +364,7 @@ and make them reality.</string>
                                     </mask>
                                 </variation>
                                 <connections>
-                                    <action selector="card7WithSender:" destination="lWe-ZJ-JRx" eventType="touchDragInside" id="b0b-D8-Zhd"/>
+                                    <action selector="card7WithSender:" destination="lWe-ZJ-JRx" eventType="touchUpInside" id="nGv-cz-T4i"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="nHl-e8-wDa" userLabel="card2" customClass="shadowImageView" customModule="Michael_Ginn" customModuleProvider="target">
@@ -732,7 +732,7 @@ and make them reality.</string>
                                     </mask>
                                 </variation>
                                 <connections>
-                                    <action selector="card4WithSender:" destination="V5G-ve-hwD" eventType="touchUpInside" id="MQf-J2-s0J"/>
+                                    <action selector="card1WithSender:" destination="V5G-ve-hwD" eventType="touchUpInside" id="dJg-eF-Hrt"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="dzj-z9-2XV" userLabel="card2" customClass="shadowImageView" customModule="Michael_Ginn" customModuleProvider="target">
@@ -759,7 +759,7 @@ and make them reality.</string>
                                     </mask>
                                 </variation>
                                 <connections>
-                                    <action selector="card1WithSender:" destination="V5G-ve-hwD" eventType="touchUpInside" id="uX6-xA-B8c"/>
+                                    <action selector="card4WithSender:" destination="V5G-ve-hwD" eventType="touchUpInside" id="6zy-9Y-6mQ"/>
                                 </connections>
                             </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Education" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Ilp-dV-u96">
@@ -2363,7 +2363,7 @@ and make them reality.</string>
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="uZf-e5-DOu"/>
+        <segue reference="AW9-uv-C0F"/>
         <segue reference="jjJ-Tk-iUU"/>
         <segue reference="bno-Gc-j2a"/>
     </inferredMetricsTieBreakers>
