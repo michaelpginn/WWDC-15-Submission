@@ -1,0 +1,614 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "AC49635C-4B6F-4D81-9F36-BDCE2750E058"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BE68DF1B-8E1E-4E86-9EC0-084A67C8C399"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Michael Ginn/StartingViewController.swift"
+            timestampString = "451712453.694447"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1570F9B5-B26F-4A49-A93C-A32FDC7744D9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Michael Ginn/CardsViewController.swift"
+            timestampString = "451066748.169075"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "animationControllerForDismissedController(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1152F4A9-0631-4671-80C5-B23031D8A39C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Michael Ginn/CardsViewController.swift"
+            timestampString = "451061633.400897"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "swipeRight(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EC9BEF74-AE5A-42AC-A58C-8A3F09E7513D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Michael Ginn/CardsViewController.swift"
+            timestampString = "451061633.400897"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "firstImage(_:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  uuid = "EC9BEF74-AE5A-42AC-A58C-8A3F09E7513D - 6d7c229568c9de58"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Michael_Ginn.CardsViewController.firstImage (Michael_Ginn.CardsViewController)(Michael_Ginn.shadowImageView) -&gt; ()"
+                  moduleName = "Michael Ginn"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/milesper/Desktop/XcodeProjects/Michael%20Ginn/Michael%20Ginn/CardsViewController.swift"
+                  timestampString = "451059866.616696"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "19">
+               </Location>
+               <Location
+                  uuid = "EC9BEF74-AE5A-42AC-A58C-8A3F09E7513D - 3759ce2062ac7250"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Michael_Ginn.CardsViewController.(firstImage (Michael_Ginn.CardsViewController) -&gt; (Michael_Ginn.shadowImageView) -&gt; ()).(closure #1)"
+                  moduleName = "Michael Ginn"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/milesper/Desktop/XcodeProjects/Michael%20Ginn/Michael%20Ginn/CardsViewController.swift"
+                  timestampString = "451059866.616957"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5E6405C7-7CF2-433C-8BB7-F1A5A026E147"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Michael Ginn/CardsViewController.swift"
+            timestampString = "451065194.507047"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "firstImage(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2CF774BF-AB2F-4354-8DC5-ED27C060727C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Michael Ginn/CardsViewController.swift"
+            timestampString = "451066748.169075"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "firstImage(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8FC33655-DDAE-4A14-94E2-F8EB5A049F16"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Michael Ginn/CardsViewController.swift"
+            timestampString = "451066748.169075"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "firstImage(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "31390BFA-42EC-4731-9006-92694693B875"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Michael Ginn/ZoomTransition.swift"
+            timestampString = "451260713.759479"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ZoomTransition"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2635F6CA-587A-4E87-9121-B785F0DE0846"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Michael Ginn/ZoomTransition.swift"
+            timestampString = "451260713.759479"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "animateTransition(using:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "276966CB-7752-4054-9C86-07F5624E7CB0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Michael Ginn/CardsViewController.swift"
+            timestampString = "451066748.169075"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "firstImage(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "300A066E-FA0B-4521-8CC8-97F65F16DC54"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Michael Ginn/CardsViewController.swift"
+            timestampString = "451065904.914897"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "firstImage(_:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  uuid = "300A066E-FA0B-4521-8CC8-97F65F16DC54 - 6d7c229568c9dffd"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Michael_Ginn.CardsViewController.firstImage (Michael_Ginn.CardsViewController)(Michael_Ginn.shadowImageView) -&gt; ()"
+                  moduleName = "Michael Ginn"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/milesper/Desktop/XcodeProjects/Michael%20Ginn/Michael%20Ginn/CardsViewController.swift"
+                  timestampString = "451065180.460517"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "576">
+               </Location>
+               <Location
+                  uuid = "300A066E-FA0B-4521-8CC8-97F65F16DC54 - 3759ce2062ac73d4"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Michael_Ginn.CardsViewController.(firstImage (Michael_Ginn.CardsViewController) -&gt; (Michael_Ginn.shadowImageView) -&gt; ()).(closure #1)"
+                  moduleName = "Michael Ginn"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/milesper/Desktop/XcodeProjects/Michael%20Ginn/Michael%20Ginn/CardsViewController.swift"
+                  timestampString = "451065180.460799"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "336">
+               </Location>
+               <Location
+                  uuid = "300A066E-FA0B-4521-8CC8-97F65F16DC54 - 3759ce2062ac5258"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Michael_Ginn.CardsViewController.(firstImage (Michael_Ginn.CardsViewController) -&gt; (Michael_Ginn.shadowImageView) -&gt; ()).(closure #2)"
+                  moduleName = "Michael Ginn"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/milesper/Desktop/XcodeProjects/Michael%20Ginn/Michael%20Ginn/CardsViewController.swift"
+                  timestampString = "451065180.461007"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DB3D2DD6-61F8-447C-AC29-5B892D626F18"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Michael Ginn/SlideUpTransitionController.swift"
+            timestampString = "451069906.421048"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "transitionDuration(using:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5881CA3C-F140-4ABC-A056-5CB1543756C8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Michael Ginn/TextCardViewController.swift"
+            timestampString = "451094533.498605"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "TextCardViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F6A7E6AB-4331-4699-A575-076BE44E8D28"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Michael Ginn/TextCardViewController.swift"
+            timestampString = "451362124.42131"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "671901E8-62CD-497A-8DE3-FFFFC3596F37"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Michael Ginn/TextCardViewController.swift"
+            timestampString = "451094533.498605"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "81602F94-D028-4329-B856-7DA9F22C02DD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Michael Ginn/TextCardViewController.swift"
+            timestampString = "451094533.498605"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "50B8C551-86E1-458F-BF4B-1DF5D59853AC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Michael Ginn/TextCardViewController.swift"
+            timestampString = "451094533.498605"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "13BFC740-8745-479C-90A8-47D6A3D359C0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Michael Ginn/BioViewController.swift"
+            timestampString = "451711933.866067"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "viewWillDisappear(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5FE2FCD4-1DBB-4F1A-9EF6-1B060FFB6A73"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Michael Ginn/ListCardViewController.swift"
+            timestampString = "451277035.260284"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "fillTableView()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B93B6B0B-722C-4ED1-ACE8-B09F01DE108D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Michael Ginn/ListCardViewController.swift"
+            timestampString = "451277035.260284"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "fillTableView()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B1FE579F-591F-4FCE-B97C-80CE281C5958"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Michael Ginn/ListCardViewController.swift"
+            timestampString = "451277035.260284"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "fillTableView()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "805A87B5-FDA0-433C-9F9D-0C9240A8AD74"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Michael Ginn/ListCardViewController.swift"
+            timestampString = "451276623.168996"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "ListCardViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "805A87B5-FDA0-433C-9F9D-0C9240A8AD74 - 7d5506845f915cfb"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Michael_Ginn.ListCardViewController.tableData.getter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "Michael Ginn"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/milesper/Desktop/XcodeProjects/Michael%20Ginn/Michael%20Ginn/ListCardViewController.swift"
+                  timestampString = "451276623.196659"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "805A87B5-FDA0-433C-9F9D-0C9240A8AD74 - 9c64fe02c2c2c887"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Michael_Ginn.ListCardViewController.tableData.setter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "Michael Ginn"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/milesper/Desktop/XcodeProjects/Michael%20Ginn/Michael%20Ginn/ListCardViewController.swift"
+                  timestampString = "451276623.196871"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "805A87B5-FDA0-433C-9F9D-0C9240A8AD74 - 46613835686d0665"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Michael_Ginn.ListCardViewController.tableData.materializeForSet : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "Michael Ginn"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/milesper/Desktop/XcodeProjects/Michael%20Ginn/Michael%20Ginn/ListCardViewController.swift"
+                  timestampString = "451276623.197014"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "805A87B5-FDA0-433C-9F9D-0C9240A8AD74 - a998173cc2fb44ba"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Michael_Ginn.ListCardViewController.init (Michael_Ginn.ListCardViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;ObjectiveC.NSBundle&gt;) -&gt; Michael_Ginn.ListCardViewController"
+                  moduleName = "Michael Ginn"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/milesper/Desktop/XcodeProjects/Michael%20Ginn/Michael%20Ginn/ListCardViewController.swift"
+                  timestampString = "451276623.197152"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "867">
+               </Location>
+               <Location
+                  uuid = "805A87B5-FDA0-433C-9F9D-0C9240A8AD74 - 242e798e9c20fdec"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Michael_Ginn.ListCardViewController.init (Michael_Ginn.ListCardViewController.Type)(coder : ObjectiveC.NSCoder) -&gt; Michael_Ginn.ListCardViewController"
+                  moduleName = "Michael Ginn"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/milesper/Desktop/XcodeProjects/Michael%20Ginn/Michael%20Ginn/ListCardViewController.swift"
+                  timestampString = "451276623.197297"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "773">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F30CB488-5BF4-44CC-A00F-4CC1C7CB6EE9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Michael Ginn/BioViewController.swift"
+            timestampString = "451711933.866067"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "201"
+            endingLineNumber = "201"
+            landmarkName = "animationControllerForDismissedController(dismissed:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "247B51B4-88E7-4E4F-AD38-F7BDE8E5F784"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Michael Ginn/LongFade.swift"
+            timestampString = "451694433.096014"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "transitionDuration(transitionContext:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A7272B1B-D9D0-427C-9D0E-5CA895E490C6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Michael Ginn/TextCardViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3D4D8D43-9BBF-4129-BA8F-9847565DB038"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Michael Ginn/BioViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "172"
+            endingLineNumber = "172"
+            landmarkName = "prepareForSegue(segue:sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

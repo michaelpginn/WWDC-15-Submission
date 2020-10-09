@@ -1,0 +1,3 @@
+PR: Personal Record Keeper
+pricon.png,pr1.png,pr2.png,pr3.png,pr4.png
+    PR was the first app I created, almost exactly a year ago.  I had the idea for a tool that athletes would use to store personal bests, being a runner myself.  At the time, I was also fooling around with Xcode, and realized that I could make my idea a reality.  The app, while simple in some regards, incorperated complex ideas such as CoreData, blurring images, and some basic animation.

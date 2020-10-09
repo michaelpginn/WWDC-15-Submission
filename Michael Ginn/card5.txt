@@ -1,0 +1,3 @@
+Quaritate Sites
+qsites.png,metsplorationslide.png,unpackinghistory.png,qt1.png,qt2.png,qt3.png
+    Quaritate.com grew from my original website, "METSploration".  The original site was a blog about math, science, and technology, and was my first experience with creating something that anyone could see.  metsploration is now a subsite of Quaritate, which is also home to any other websites for ideas or projects I have.  I currently use it mostly for app support sites, and occasionally still post to metsploration.
